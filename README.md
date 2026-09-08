@@ -75,8 +75,4 @@ openpyxl
 - Only two organs (bladder, rectum) are comparable across cohorts
 
 
-## License
 
-## Citation
-
-If you use this pipeline, please cite: [your name], "[Report title]," [Institution], [Year].
